@@ -24,8 +24,8 @@ It is useful when you want to reinstall CUDA or fix conflicts caused by multiple
 
 ```bash
  
-chmod +x cleanup_cuda.sh
-./cleanup_cuda.sh
+chmod +x cuda_cleaner.sh
+./cuda_cleaner.sh
 
 ```
 
