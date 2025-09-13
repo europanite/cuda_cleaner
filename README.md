@@ -24,7 +24,7 @@ It is useful when you want to reinstall CUDA or fix conflicts caused by multiple
 ## Usage
 
 ```bash
- 
+curl -O https://raw.githubusercontent.com/europanite/cuda_cleaner/main/cuda_cleaner.sh
 chmod +x cuda_cleaner.sh
 ./cuda_cleaner.sh
 
