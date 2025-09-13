@@ -1,4 +1,3 @@
-# cuda_cleaner
 # [Cuda Cleaner](https://github.com/europanite/cuda_cleaner "Cuda Cleaner")
 
 A shell script to remove all  cuda libraries
