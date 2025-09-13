@@ -1,4 +1,5 @@
-# cuda_cleaner
+# [Cuda Cleaner](https://github.com/europanite/cuda_cleaner "Cuda Cleaner")
+
 A shell script to remove all  cuda libraries
 
 This script completely removes CUDA, cuDNN, and NVIDIA-related packages from an Ubuntu system.  
