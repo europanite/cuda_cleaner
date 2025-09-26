@@ -1,2 +1,7 @@
+title: "cuda_cleaner"
+description: "A shell script to remove all  cuda libraries"
+baseurl: "/cuda_cleaner"
+url: "https://europanite.github.io"
+theme: minima
 plugins:
   - jekyll-sitemap
