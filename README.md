@@ -1,6 +1,6 @@
-# [Cuda Cleaner](https://github.com/europanite/cuda_cleaner "Cuda Cleaner")
+# [Cuda Cleaner](https://github.com/europanite/cuda-cleaner "Cuda Cleaner")
 
-[![pages-build-deployment](https://github.com/europanite/cuda_cleaner/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/europanite/cuda_cleaner/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/europanite/cuda-cleaner/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/europanite/cuda-cleaner/actions/workflows/pages/pages-build-deployment)
 
 A shell script to remove all  cuda libraries
 
@@ -26,9 +26,9 @@ It is useful when you want to reinstall CUDA or fix conflicts caused by multiple
 ## Usage
 
 ```bash
-curl -O https://raw.githubusercontent.com/europanite/cuda_cleaner/main/cuda_cleaner.sh
-chmod +x cuda_cleaner.sh
-./cuda_cleaner.sh
+curl -O https://raw.githubusercontent.com/europanite/cuda-cleaner/main/cuda-cleaner.sh
+chmod +x cuda-cleaner.sh
+./cuda-cleaner.sh
 
 ```
 
